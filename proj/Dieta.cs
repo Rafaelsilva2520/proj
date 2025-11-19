@@ -8,7 +8,7 @@ namespace proj
 {
     internal class Dieta
     {
-        public string Objetivo;
-        public int Calorias;
+        public static int Objetivo;
+        public static int Calorias;
     }
 }

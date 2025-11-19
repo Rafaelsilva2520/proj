@@ -8,9 +8,10 @@ namespace proj
 {
     internal class Pessoa
     {
-        public string Nome;
-        public int Idade;
-        public float Peso;
-        public float Altura;
+        public static string nome;
+        public static int idade;
+        public static int cpf;
+        public static float peso;
+        public static float altura;
     }
 }
