@@ -10,7 +10,7 @@ namespace proj
 {
     class Funcoes
     {
-        static string conexaoString = "server=localhost;uid=root;pwd=Rnt915302@;database=nutricao;port=3306";
+        static string conexaoString = "server=localhost;uid=root;pwd=;database=nutricao;port=3306";
         public static void CadastrarUsuario()
         {
             while (true){
