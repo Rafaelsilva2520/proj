@@ -4,6 +4,14 @@ os resultados que ele deseja atingir emagrecer,saude etc.... as calorias diarias
 apos isso calculamos o indice de massa corporal do usuario,e com isso o sistema determina se a dieta 
 e muito/pouco calorica para o usuario.
 
+
+CRIADORES
+Diego Santos- Dig-San16
+Otavio Miguel - ootaviomiguel12
+Rafael Pina - eu
+Gabriel Jacinto
+
+
 DIETA:
 objetivo
 calorias
