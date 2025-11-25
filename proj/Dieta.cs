@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace proj
 {
-    internal class Dieta
+    class Dieta
     {
-        public static int Objetivo;
-        public static int Calorias;
+        public static int calorias;
+        public static int carbo;
+        public static int prot;
+        public static int lip;
     }
+
 }
