@@ -1,22 +1,22 @@
-Sistema Nutricional Personalizado
+## Sistema Nutricional Personalizado
 Um sistema em que voce insere seu nome,idade,peso,e altura (no cadastro de usuario),e a dieta onde o usuario insere 
 os resultados que ele deseja atingir emagrecer,saude etc.... as calorias diarias ingeridas pelo mesmo
 apos isso calculamos o indice de massa corporal do usuario,e com isso o sistema determina se a dieta 
 e muito/pouco calorica para o usuario.
 
 
-CRIADORES
+## CRIADORES
 Diego Santos- Dig-San16
 Otavio Miguel - ootaviomiguel12
 Rafael Pina - eu
 Gabriel Jacinto
 
 
-DIETA:
+## DIETA:
 objetivo
 calorias
 
-USUARIO:
+## USUARIO:
 Nome 
 idade
 peso 
