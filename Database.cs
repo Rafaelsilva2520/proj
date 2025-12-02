@@ -15,7 +15,7 @@ namespace proj
                 idade int not null,
                 peso decimal(5,2) not null,
                 altura decimal(3,2) not null,
-                cpf bigint not null unique
+                cpf varchar (14) not null unique
             );
 
             create table if not exists dieta (
