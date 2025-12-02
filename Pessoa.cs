@@ -10,7 +10,7 @@ namespace proj
     {
         public static string nome;
         public static int idade;
-        public static int cpf;
+        public static string cpf;
         public static float peso;
         public static float altura;
     }
